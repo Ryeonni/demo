@@ -26,4 +26,7 @@ public class Menu {
     @Column(name = "create_by")
     private String createBy;
 
+    //수정
+    //추가
+    //변경사항확인
 }
